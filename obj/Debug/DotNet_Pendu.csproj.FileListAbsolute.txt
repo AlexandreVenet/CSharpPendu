@@ -1,0 +1,8 @@
+C:\Users\Apprenant\Documents\DotNet_Pendu\DotNet_Pendu\bin\Debug\DotNet_Pendu.exe.config
+C:\Users\Apprenant\Documents\DotNet_Pendu\DotNet_Pendu\bin\Debug\DotNet_Pendu.exe
+C:\Users\Apprenant\Documents\DotNet_Pendu\DotNet_Pendu\bin\Debug\DotNet_Pendu.pdb
+C:\Users\Apprenant\Documents\DotNet_Pendu\DotNet_Pendu\obj\Debug\DotNet_Pendu.csproj.AssemblyReference.cache
+C:\Users\Apprenant\Documents\DotNet_Pendu\DotNet_Pendu\obj\Debug\DotNet_Pendu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Apprenant\Documents\DotNet_Pendu\DotNet_Pendu\obj\Debug\DotNet_Pendu.csproj.CoreCompileInputs.cache
+C:\Users\Apprenant\Documents\DotNet_Pendu\DotNet_Pendu\obj\Debug\DotNet_Pendu.exe
+C:\Users\Apprenant\Documents\DotNet_Pendu\DotNet_Pendu\obj\Debug\DotNet_Pendu.pdb

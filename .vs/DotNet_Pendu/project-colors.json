@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0dda768c-e1b7-4f5c-9dc9-f6bc52847ab8": {
+      "ProjectGuid": "0dda768c-e1b7-4f5c-9dc9-f6bc52847ab8",
+      "DisplayName": "DotNet_Pendu",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
